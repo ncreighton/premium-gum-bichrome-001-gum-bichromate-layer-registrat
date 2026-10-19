@@ -1,0 +1,2 @@
+# premium-gum-bichrome-001-gum-bichromate-layer-registrat
+Tired of losing track of which layer you're on, or misaligning your delicate gum bichromate prints? The Gum Bichromate Layer Registration Log is your digital darkroom assistant—built to eliminate the guesswork from your multi-layer process.  This Notion template provides a centralized system to log every layer's exposure, pigment mix, registration
